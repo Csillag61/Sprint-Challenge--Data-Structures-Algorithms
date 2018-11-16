@@ -28,5 +28,16 @@ for i in range(1, n+1):
 eggFloor[i][1]=1
 eggFloor[i][0]=0
 
+if p = number of eggs
+n= number of floors
+
+my funtion could be
+def eggDrop(p,n):
+
+Or we can break up the number of floors into smaller stacks:
+n//2 or n//3
+and check on only one part first. If breaks, go down 1 floor until it will not break.
+If does not break, go up 1 level until will break.
+
 
 
